@@ -1,0 +1,2 @@
+C:\Users\windows\Desktop\객지프\PuzzleGame\Debug\PuzzleGame.exe
+C:\Users\windows\Desktop\객지프\PuzzleGame\Debug\PuzzleGame.pdb
